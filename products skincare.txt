@@ -1,0 +1,9 @@
+<doctype html>
+<html>
+<head>
+<title> PRODUCTS </title>
+</head>
+<header>
+</header>
+<li> Skin Care </li>
+<img src="soap.jpeg" alt="soap jpeg" width="500" height="600">
