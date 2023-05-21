@@ -1,0 +1,11 @@
+body
+{
+	background-repeat:no-repeat;
+	background-image:Url("essentials.webp");
+	background-size:cover;
+}
+{
+	ul li 
+	{
+		display:inline-black;
+	}
